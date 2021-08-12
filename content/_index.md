@@ -1,3 +1,6 @@
+---
+title: "Welcome!"
+---
 Hello and welcome! I am Raleigh Wise, and welcome to my space here on this vast network of computers and people. I am currently based out of Georgia, going to school at Innovation Academy, a new STEM magnet school in Fulton County (with a very pretentious name).
 
 I'm still not 100% sure what I want to do when I "grow up", but currently things that are fascinating to me include the intersection of tech and mental health, specifically ADHD and anxiety, as that's what I've been diagnosed with, and cybersecurity.
