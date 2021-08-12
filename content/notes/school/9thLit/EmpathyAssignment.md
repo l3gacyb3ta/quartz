@@ -1,0 +1,64 @@
+---
+title: "Empathy assignment"
+---
+# Empathy assignment
+## Due: Aug 16th
+---
+## Article Notes
+- Empathy is being able to emotionally understand what other people feel from their PoV
+- "Putting yourself in someones shoes"
+- People usually can understand the own feelings, but the feelings of others are hard to understand
+- Some people are not empathetic, and respond with an opposite emotion from an interaction
+- ### Signs of empathy
+	- Listening to others
+	- people tell u at their problems
+	- think abt how other people feel
+	- overwhelmed by tragic events
+	- help others in suffering
+	- feel drained in social situations
+	- caring
+- Empathy can also be bad they can make u 
+	- overwhelmed
+	- overstimulated
+	- burned out
+- ### Types of empathy:
+	- #### Affective empathy:
+		- understand other emotions and respond the right way
+		- it may lead o feelings of personal distress
+	- #### Somatic empathy
+		- Physical reaction
+		- for example, second hand empathy
+	- #### Cognitive empathy
+		- being able to think of what others are thinking of
+		- "Theory of mind" [Brainfacts](/thoughts/books/brainfacts)
+- Compassion & sympathy are not empathy, tho they are related
+- ### Why?
+	- Empathy is evolutionarily advantageous because it lets us help each other, leading to the survival of humanity
+	- Empathy allows you to regulate your own emotions
+- There are debated gender differences in empathy response
+- ### What causes it?
+	- Both genetics _and_ socialization "nature and nurture"
+- ### Barriers to empathy:
+	- #### Bias:
+		- people usually assume that other people cause their own mistakes, whereas their mistakes are caused by other people
+		- Socially entrained biases such as racism, sexism, and homophobia can also create bias
+	- #### Victim blaming
+		- Sometime terrible things are blamed on the victims (i.e. blaming rape on women's clothing)
+		- This comes from believing that the world is fair & just, thus disregarding major social issues, such as systemic racism, sexism and homophobia.
+		- People want to think that people deserve what happens to them
+- ### What causes empathy?
+	- #### Neuroscience:
+		- Research shows that there are areas of the brain that play a role in empathy
+		- "Mirror neurons" may be an explanation for empathy, even if they are highly controversial
+		- Areas that are import such as the IFG and Anterior Cingulate have been showed to be linked to empathy using fMRI
+	- #### Emotion:
+		- These were the earliest
+		- Emapthy may be used to help us learn our own emotions
+	- #### Prosocial:
+		- This is what I said earlier, empathy is evolutionarily advantageous because it lets us help each other, leading to the survival of humanity.
+- ### How to be empathetic:
+	- work on listening
+	- pay attention to nonverbal communications
+	- try to understand people you dont agree with
+	- ask questions
+---
